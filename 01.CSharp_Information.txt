@@ -1,0 +1,12 @@
+﻿01. Automatically Stop Debugging:
+---------------------------------
+
+D:\14.Training\44.PP CSharp\04.Bangaru Raju\PP.BangarRaju\PP.BR.DP1\bin\Debug\netcoreapp3.0\PP.BR.DP1.exe (process 3456) exited 
+	with code 0.
+
+To automatically close the console when debugging 
+	stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+
+Press any key to close this window . . .
+
+/***************************************************************************************************
